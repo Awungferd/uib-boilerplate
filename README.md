@@ -1,5 +1,5 @@
 # HTML Document 
-
+CReate a new file
 **Instructions**
 * Create an HTML file.
 * In the file, declare the document type. 
